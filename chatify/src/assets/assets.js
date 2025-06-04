@@ -15,7 +15,7 @@ import bgImage from './bgImage.svg'
 
 import img1 from './img1.jpg'
 import img2 from './img2.jpg'
-import backgroundmain from './backgroundmain.jpg'
+
 import logomain from './logomain.png'
 
 const assets = {
@@ -33,7 +33,7 @@ const assets = {
     bgImage,
     logomain,
     
-    backgroundmain
+    
 }
 
 export default assets;
