@@ -31,7 +31,7 @@ const assets = {
     arrow_icon,
     code,
     bgImage,
-    logomain,
+    logomain
     
     
 }
